@@ -1,0 +1,114 @@
+body {
+    margin: 30px;
+}
+form.enter {
+    width: 500px;
+    position: relative;
+}
+
+h1 {
+    color: #fc0fc0;
+}
+
+input {
+    margin: 15px 0 5px 0;
+}
+
+button.btn-success {
+    background-color: #509af0;
+    border-color: #509af0;
+}
+
+button.btn-success:hover {
+    background-color: #2a79d5;
+    border-color: #509af0;
+}
+
+button.btn-success:focus {
+    background-color: #2a79d5;
+    border-color: #509af0;
+}
+
+button.btn-success:active {
+    background-color: #2a79d5;
+    border-color: #509af0;
+}
+
+.wrap-button {
+    margin-top: 20px;
+}
+
+.wrap-link {
+    position: relative;
+    width: 90%;
+}
+
+p.right {
+    position: absolute;
+    right: 0;
+}
+
+.warning {
+    font-family: Arial, sans-serif;
+    color: red;
+    font-size: 0.7em;
+    position: absolute;
+    right: 0;
+}
+
+.warning-left {
+    font-family: Arial, sans-serif;
+    color: red;
+    font-size: 0.7em;
+}
+
+.auth-warning {
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+
+div.wrap-error {
+    height: 15px;
+    margin-bottom: 20px;
+}
+
+.status {
+    font-family: Arial, sans-serif;
+    color: blue;
+    margin-bottom: 30px;
+}
+
+.hidden {
+    display: none;
+}
+
+div.h30 {
+    height: 30px;
+}
+
+div.image div {
+    margin: 5px;
+}
+div.wrap-photo {
+    position: relative;
+    border: gray solid 1px;
+    height: 100px;
+    width: 100px;
+}
+
+button.delete {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background-color: lightslategray;
+    padding: 1px;
+    height: 15px;
+    width: 15px;
+}
+
+span.delete-button {
+    position: relative;
+    font-size: 0.7em;
+    bottom: 9px;
+}
+
